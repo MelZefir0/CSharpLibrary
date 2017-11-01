@@ -1,0 +1,7 @@
+C:\Users\Liv\source\repos\CSharpLibrary\0.10_OOP_Game\bin\Debug\0.10_OOP_Game.exe.config
+C:\Users\Liv\source\repos\CSharpLibrary\0.10_OOP_Game\bin\Debug\0.10_OOP_Game.exe
+C:\Users\Liv\source\repos\CSharpLibrary\0.10_OOP_Game\bin\Debug\0.10_OOP_Game.pdb
+C:\Users\Liv\source\repos\CSharpLibrary\0.10_OOP_Game\obj\Debug\0.10_OOP_Game.csprojResolveAssemblyReference.cache
+C:\Users\Liv\source\repos\CSharpLibrary\0.10_OOP_Game\obj\Debug\0.10_OOP_Game.csproj.CoreCompileInputs.cache
+C:\Users\Liv\source\repos\CSharpLibrary\0.10_OOP_Game\obj\Debug\0.10_OOP_Game.exe
+C:\Users\Liv\source\repos\CSharpLibrary\0.10_OOP_Game\obj\Debug\0.10_OOP_Game.pdb

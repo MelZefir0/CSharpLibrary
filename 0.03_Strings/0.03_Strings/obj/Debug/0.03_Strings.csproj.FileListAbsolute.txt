@@ -1,0 +1,7 @@
+C:\Users\Liv\source\repos\0.03_Strings\0.03_Strings\obj\Debug\0.03_Strings.csprojResolveAssemblyReference.cache
+C:\Users\Liv\source\repos\0.03_Strings\0.03_Strings\obj\Debug\0.03_Strings.csproj.CoreCompileInputs.cache
+C:\Users\Liv\source\repos\0.03_Strings\0.03_Strings\bin\Debug\0.03_Strings.exe.config
+C:\Users\Liv\source\repos\0.03_Strings\0.03_Strings\bin\Debug\0.03_Strings.exe
+C:\Users\Liv\source\repos\0.03_Strings\0.03_Strings\bin\Debug\0.03_Strings.pdb
+C:\Users\Liv\source\repos\0.03_Strings\0.03_Strings\obj\Debug\0.03_Strings.exe
+C:\Users\Liv\source\repos\0.03_Strings\0.03_Strings\obj\Debug\0.03_Strings.pdb

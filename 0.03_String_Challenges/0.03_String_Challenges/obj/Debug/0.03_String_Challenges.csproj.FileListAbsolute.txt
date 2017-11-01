@@ -1,0 +1,7 @@
+c:\users\liv\source\repos\0.03_String_Challenges\0.03_String_Challenges\bin\Debug\0.03_String_Challenges.exe.config
+c:\users\liv\source\repos\0.03_String_Challenges\0.03_String_Challenges\bin\Debug\0.03_String_Challenges.exe
+c:\users\liv\source\repos\0.03_String_Challenges\0.03_String_Challenges\bin\Debug\0.03_String_Challenges.pdb
+c:\users\liv\source\repos\0.03_String_Challenges\0.03_String_Challenges\obj\Debug\0.03_String_Challenges.csprojResolveAssemblyReference.cache
+c:\users\liv\source\repos\0.03_String_Challenges\0.03_String_Challenges\obj\Debug\0.03_String_Challenges.csproj.CoreCompileInputs.cache
+c:\users\liv\source\repos\0.03_String_Challenges\0.03_String_Challenges\obj\Debug\0.03_String_Challenges.exe
+c:\users\liv\source\repos\0.03_String_Challenges\0.03_String_Challenges\obj\Debug\0.03_String_Challenges.pdb

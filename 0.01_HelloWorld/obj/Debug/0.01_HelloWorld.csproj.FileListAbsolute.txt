@@ -1,0 +1,7 @@
+C:\Users\Liv\source\repos\CSharpLibrary\0.01_HelloWorld\obj\Debug\0.01_HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Liv\source\repos\CSharpLibrary\0.01_HelloWorld\obj\Debug\0.01_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Liv\source\repos\CSharpLibrary\0.01_HelloWorld\bin\Debug\0.01_HelloWorld.exe.config
+C:\Users\Liv\source\repos\CSharpLibrary\0.01_HelloWorld\bin\Debug\0.01_HelloWorld.exe
+C:\Users\Liv\source\repos\CSharpLibrary\0.01_HelloWorld\bin\Debug\0.01_HelloWorld.pdb
+C:\Users\Liv\source\repos\CSharpLibrary\0.01_HelloWorld\obj\Debug\0.01_HelloWorld.exe
+C:\Users\Liv\source\repos\CSharpLibrary\0.01_HelloWorld\obj\Debug\0.01_HelloWorld.pdb

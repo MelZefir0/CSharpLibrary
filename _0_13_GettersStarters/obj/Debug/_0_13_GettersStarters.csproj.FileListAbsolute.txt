@@ -1,0 +1,2 @@
+C:\Users\Liv\source\repos\CSharpLibrary\_0_13_GettersStarters\obj\Debug\_0_13_GettersStarters.csprojResolveAssemblyReference.cache
+C:\Users\Liv\source\repos\CSharpLibrary\_0_13_GettersStarters\obj\Debug\_0_13_GettersStarters.csproj.CoreCompileInputs.cache
