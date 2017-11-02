@@ -1,2 +1,9 @@
 C:\Users\Liv\source\repos\CSharpLibrary\_0_13_GettersStarters\obj\Debug\_0_13_GettersStarters.csprojResolveAssemblyReference.cache
 C:\Users\Liv\source\repos\CSharpLibrary\_0_13_GettersStarters\obj\Debug\_0_13_GettersStarters.csproj.CoreCompileInputs.cache
+C:\dotnetprojects\CSharpLibrary\_0_13_GettersStarters\bin\Debug\_0_13_GettersStarters.exe.config
+C:\dotnetprojects\CSharpLibrary\_0_13_GettersStarters\bin\Debug\_0_13_GettersStarters.exe
+C:\dotnetprojects\CSharpLibrary\_0_13_GettersStarters\bin\Debug\_0_13_GettersStarters.pdb
+C:\dotnetprojects\CSharpLibrary\_0_13_GettersStarters\obj\Debug\_0_13_GettersStarters.csprojResolveAssemblyReference.cache
+C:\dotnetprojects\CSharpLibrary\_0_13_GettersStarters\obj\Debug\_0_13_GettersStarters.csproj.CoreCompileInputs.cache
+C:\dotnetprojects\CSharpLibrary\_0_13_GettersStarters\obj\Debug\_0_13_GettersStarters.exe
+C:\dotnetprojects\CSharpLibrary\_0_13_GettersStarters\obj\Debug\_0_13_GettersStarters.pdb
